@@ -14,7 +14,6 @@ This site showcases my skills, projects, achievements, and passion for full-stac
 - 🖼️ Stylish glassmorphism UI with tilt & hover animations
 - 💻 Skills section with animated tech badges
 - 📁 Project cards with modal popups and tech stack tags
-- 🏆 Achievements section with image previews
 - 📬 Contact form integrated with **EmailJS**
 - 🧭 Smooth scroll & sticky navbar navigation
 
