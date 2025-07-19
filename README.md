@@ -60,8 +60,8 @@ I thrive on turning ideas into impactful solutions — and I’m always open to 
 
 Let’s connect and build something awesome together!
 
-- 📧 Email: [divyagupta2209120@acropolis.in](mailto:divyagupta2209120@acropolis.in)
-- 🔗 LinkedIn: [linkedin.com/in/divyagupta2004](https://linkedin.com/in/divyagupta2004)
+- 📧 Email: [divyagupta20042004@gmail.com](mailto:divyagupta20042004@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/divya-gupta-888361289](https://linkedin.com/in/divya-gupta-888361289)
 - 💻 GitHub: [github.com/divya-gupta2004](https://github.com/divya-gupta2004)
 
 ---
