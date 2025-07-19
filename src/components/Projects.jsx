@@ -8,7 +8,7 @@ const projects = [
     title: "YouSpot - Decentralized Media Streaming Platform",
     description:
       "Web3 project shortlisted at Paris Blockchain Week for decentralized media verification. Web3-powered platform combining YouTube and Spotify features for streaming, sharing, and owning video/audio content.",
-    techStack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "Solidity", "Ethereum", "IPFS", "Web3"],
+    techStack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "Solidity", "Ethereum", "IPFS"],
     github: "https://github.com/divya-gupta2004/YouSpot",
     live: "https://divyanshu9329.github.io/VP/",
     features: [
