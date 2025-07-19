@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my skills, projects, achievements, and passion for full-stack development — built with ❤️ using **React**, **Tailwind CSS**, and **Framer Motion**.
 
-🚀 **Live Demo**: [Click to visit my portfolio](https://portfolio-divya-guptas-projects-b0be4fc0.vercel.app/)
+🚀 **Live Demo**: [https://portfolio-gamma-plum-41.vercel.app/](https://portfolio-gamma-plum-41.vercel.app/)
 
 ---
 
