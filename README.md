@@ -1,7 +1,7 @@
-# 💼 Divya Gupta — Developer Portfolio
+# 💼 Divya Gupta — Portfolio
 
 Welcome to my personal portfolio website!  
-This site showcases my skills, projects, achievements, and passion for full-stack development — built with ❤️ using **React**, **Tailwind CSS**, and **Framer Motion**.
+This site showcases my skills, projects, achievements, and passion for full-stack development — built by using **React**, **Tailwind CSS**, and **Framer Motion**.
 
 🚀 **Live Demo**: [https://portfolio-gamma-plum-41.vercel.app/](https://portfolio-gamma-plum-41.vercel.app/)
 
