@@ -56,12 +56,12 @@ const About = () => {
             </div>
             <div className="relative">
               <MdOutlineSchool className="absolute -left-6 top-1 text-indigo-500 text-xl" />
-              <h4 className="text-lg font-bold">12th - Wisdom Public School, Jabalpur (M.P.) - MP Board</h4>
+              <h4 className="text-lg font-bold">12th - Wisdom Public School, Jabalpur (M.P.) </h4>
               <p className="text-sm text-gray-600 dark:text-gray-400">Completed in 2022</p>
             </div>
             <div className="relative">
               <MdOutlineSchool className="absolute -left-6 top-1 text-indigo-500 text-xl" />
-              <h4 className="text-lg font-bold">10th - St. Joseph's Convent Girls' Sr. Sec. School, Jabalpur (M.P.) - CBSE Board</h4>
+              <h4 className="text-lg font-bold">10th - St. Joseph's Convent Girls' Sr. Sec. School, Jabalpur (M.P.) </h4>
               <p className="text-sm text-gray-600 dark:text-gray-400">Completed in 2020</p>
             </div>
           </div>
