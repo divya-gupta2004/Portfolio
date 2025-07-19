@@ -98,7 +98,7 @@ const Skills = () => {
           transition={{ delay: 0.3 }}
         >
           <h3 className="text-2xl font-semibold mb-4 border-l-4 border-indigo-500 pl-3">
-            Relevant Coursework
+            Core Skills
           </h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-800 dark:text-gray-300">
             <li>Object Oriented Programming</li>
