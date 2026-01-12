@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import flowstateFront from "../assets/flowstate_OS_Front.jpg;
+import flowstateFront from "../assets/flowstate_OS_Front.jpg";
 
 gsap.registerPlugin(ScrollTrigger);
 
