@@ -96,14 +96,13 @@ export default function Projects() {
   description:
     "Browser-based hybrid productivity workspace integrating a code editor, documentation, and notes in a single distraction-free interface. Features online code execution via Judge0 API, secure authentication, and a clean UI to improve focus and workflow efficiency.",
   image:
-    "https://imgs.search.brave.com/0YwJ7X0QzZ0XQK3m4m3y9t9F4R4V8Cz5nYxJxU7yK8E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBpbmltZy5jb20vNzM2eC8zNy8yMi9jYi8zNzIyY2I4ZGI0NzIwYjJmNjk3NjZmYTIyZmI0YmQ4Ni5qcGc",
+    "straight-tomato-5eznj79wxl.edgeone.app",
   tags: [
     "React",
     "Node.js",
     "Express.js",
     "MongoDB",
     "Judge0 API",
-    "REST APIs",
   ],
   link: "https://flowstate-os-demo-link.com",
   github: "https://github.com/divya-gupta2004/FlowState-OS",
