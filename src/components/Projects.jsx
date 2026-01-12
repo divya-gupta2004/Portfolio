@@ -96,8 +96,7 @@ export default function Projects() {
   title: "FlowState OS",
   description:
     "Browser-based hybrid productivity workspace integrating a code editor, documentation, and notes in a single distraction-free interface. Features online code execution via Judge0 API, secure authentication, and a clean UI to improve focus and workflow efficiency.",
-  image:
-  {flowstateFront},
+  image: flowstateFront,  
   tags: [
     "React",
     "Node.js",
