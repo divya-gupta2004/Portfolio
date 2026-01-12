@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import flowstateFront from "../assets/flowstate_OS_Front.jpg;
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -96,7 +97,7 @@ export default function Projects() {
   description:
     "Browser-based hybrid productivity workspace integrating a code editor, documentation, and notes in a single distraction-free interface. Features online code execution via Judge0 API, secure authentication, and a clean UI to improve focus and workflow efficiency.",
   image:
-    "straight-tomato-5eznj79wxl.edgeone.app",
+  {flowstateFront},
   tags: [
     "React",
     "Node.js",
